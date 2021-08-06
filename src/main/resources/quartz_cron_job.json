@@ -1,0 +1,5 @@
+{
+  "groupName": "crone_group",
+  "jobName": "crone_job1",
+  "cronExpression": "0 0/1 * 1/1 * ? *"
+}
