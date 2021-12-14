@@ -1,7 +1,0 @@
-{
-  "groupName": "simple_group",
-  "jobName": "simple_job1",
-  "startDateAt": "2021-08-02 16:30:00",
-  "repeatIntervalInSeconds": 30,
-  "repeatCount": 10
-}
